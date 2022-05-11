@@ -2,7 +2,7 @@
  
 import axios from 'axios'
 
-const API_URL = "https://milestone-project2.herokuapp.com/route/api/activity/"
+const API_URL = "https://milestone-project2.herokuapp.com/routes/api/activity/"
 
 
 // Create new activity/workout
