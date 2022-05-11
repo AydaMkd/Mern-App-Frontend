@@ -1,7 +1,7 @@
   
 import axios from 'axios'
 
-const API_URL = "https://milestone-project2.herokuapp.com/routes/api/users/"
+const API_URL = "https://milestone-project2.herokuapp.com/api/users/"
 
 // Register user
 const register = async (userData) => {
