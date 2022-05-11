@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Mern-App-Frontend/static/css/main.b712c64b.css",
+    "main.js": "/Mern-App-Frontend/static/js/main.522dde11.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Mern-App-Frontend/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/ben-warren-home.jpg": "/Mern-App-Frontend/static/media/ben-warren-home.658fadd5756d883d1c17.jpg",
+    "static/media/mikel-parera-activity.jpg": "/Mern-App-Frontend/static/media/mikel-parera-activity.f0a2cc88d7f62d955bb8.jpg",
+    "static/media/langston-register.jpg": "/Mern-App-Frontend/static/media/langston-register.cc9418198006c674aaaf.jpg",
+    "index.html": "/Mern-App-Frontend/index.html",
+    "main.b712c64b.css.map": "/Mern-App-Frontend/static/css/main.b712c64b.css.map",
+    "main.522dde11.js.map": "/Mern-App-Frontend/static/js/main.522dde11.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Mern-App-Frontend/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b712c64b.css",
+    "static/js/main.522dde11.js"
+  ]
+}
